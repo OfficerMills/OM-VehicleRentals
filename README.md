@@ -5,6 +5,8 @@
 ## \____/_/  /_/  /_____/\___/|___/\___/_/\____/ .___/_/ /_/ /_/\___/_/ /_/\__/  
 ##                                          /_/                              
 
+Support: https://discord.gg/OfficerMills
+
 
 # OM Vehicle Rentals
 
